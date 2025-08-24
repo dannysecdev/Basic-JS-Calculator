@@ -33,4 +33,4 @@ No build steps or dependencies required.
 
 MIT License
 
-![Calculator Screenshot](screenshot.png)
+See [LICENSE](LICENSE) for details.
